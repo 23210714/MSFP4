@@ -177,7 +177,7 @@ x = sim('sistema',parameters);
 plotsignals(x.control,x.CE,x.PID,x.Ve,'Caso')
 ```
 
-> El archivo de origen se denomina `sistema(3).slx`. Para ejecutar este fragmento sin modificarlo, guarda una copia como `sistema.slx`.
+
 
 <img width="533" height="275" alt="image" src="https://github.com/user-attachments/assets/37edc490-ee27-45fb-a35a-c7a2e3ababaf" />
 
@@ -258,7 +258,7 @@ sysCaso = sis(1000E-6, 1E3, "Caso")
 <img width="650" height="502" alt="image" src="https://github.com/user-attachments/assets/733b748b-a33f-4fb3-a464-667f6e379c5b" />
 
 
-*Figura 04. Evidencia de laboratorio. En la captura original se registraron valores Vpp de 1.080 V y 520.0 mV.*
+*Figura 04. Evidencia de laboratorio.
 
 ### Lectura de resultados
 
