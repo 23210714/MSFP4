@@ -60,7 +60,8 @@ El sistema endócrino regula funciones del organismo mediante la liberación de 
 
 ### ESPACIO PARA FIGURA 01 · BIORRENDER
 
-> **Inserta aquí tu imagen:** exporta tu diseño de BioRender como `biorender.png`, súbelo a la misma ubicación del README y elimina los signos de comentario de la línea siguiente.
+<img width="887" height="621" alt="image" src="https://github.com/user-attachments/assets/ecc5fc98-1fda-437d-8cce-f0e54f7b7be3" />
+
 
 <!-- ![Figura 01. Modelo fisiológico y analogía eléctrica en BioRender](biorender.png) -->
 
