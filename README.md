@@ -274,8 +274,7 @@ El uso de un circuito eléctrico equivalente permitió expresar un sistema endó
 
 1. Valle Trujillo, P. A. (2026). *Modelado de Sistemas Fisiológicos (IBF-1020)*, apartado 5.6: «Modelado y control del sistema endócrino». Instituto Tecnológico de Tijuana.
 2. Valle Trujillo, P. A. *README de referencia de la asignatura*. Material proporcionado por el docente.
-3. Archivos de la práctica: `Armenta23212178.mlx`, `sistema(3).slx`, `codigo.py`, BioRender, gráficas y captura de osciloscopio.
-4. [Repositorio académico MSF-IBF1020](https://github.com/DrPaulValle/MSF-IBF1020).
+3. [Repositorio académico MSF-IBF1020](https://github.com/DrPaulValle/MSF-IBF1020).
 
 ---
 
