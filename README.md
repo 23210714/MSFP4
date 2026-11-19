@@ -19,8 +19,8 @@
 
 | Campo | Información |
 |:--|:--|
-| **Estudiante** | **[Maria Luisa Michelle Muñoz Meneses]** |
-| **Número de control** | [23210714] |
+| **Estudiante** | **Maria Luisa Michelle Muñoz Meneses** |
+| **Número de control** | 23210714 |
 | **Asignatura** | Modelado de Sistemas Fisiológicos (IBF-1020) |
 | **Docente** | Dr. Paul Antonio Valle Trujillo |
 | **Institución** | Tecnológico Nacional de México · Instituto Tecnológico de Tijuana |
