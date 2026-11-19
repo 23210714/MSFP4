@@ -58,7 +58,7 @@ Se analizan dos configuraciones de parámetros: **control**, como referencia, y 
 
 El sistema endócrino regula funciones del organismo mediante la liberación de hormonas. En esta práctica, su comportamiento se aproxima por un sistema de estímulo–respuesta con almacenamiento y retardo dinámico.
 
-### ESPACIO PARA FIGURA 01 · BIORRENDER
+
 
 <img width="887" height="621" alt="image" src="https://github.com/user-attachments/assets/ecc5fc98-1fda-437d-8cce-f0e54f7b7be3" />
 
